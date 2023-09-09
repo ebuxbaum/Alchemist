@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="350.85333"
+   height="504.56"
+   viewBox="0 0 350.85333 504.56"
+   sodipodi:docname="SalGemmae32.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-253.76,-600.15998)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-400.16,-485.76001)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="350.85333"
+       height="504.56"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 -1.76,8 -1.28,8 -0.96,8.16 -0.48,8 v 8.16 l 0.48,8.16 0.8,8.159999 1.28,8 1.76,7.840004 2.08,8 2.56,7.680001 3.04,7.519996 3.36,7.36 3.84,7.2 4.159999,7.04 4.480002,6.72 4.959999,6.56 5.119999,6.24 5.600002,5.92 5.919998,5.60001 6.080002,5.43998 6.399998,4.96001 6.720005,4.64 7.039993,4.16 7.040001,3.84 7.36,3.52 7.520005,3.04 7.839997,2.72 7.68,2.24 8,1.76 8,1.44 8.16,0.95999 8,0.48001 8.16001,0.15999 8.15998,-0.31999 8.16001,-0.8 8,-1.28 8,-1.60001 7.83999,-2.07998 7.68001,-2.56002 7.68,-2.87999 7.36,-3.36 7.19999,-3.68001 7.04001,-4.15998 6.88001,-4.48001 6.55999,-4.80001 6.23999,-5.11999 5.92,-5.59999 5.76001,-5.76001 5.28,-6.08001 5.12,-6.39999 4.64001,-6.72 4.31998,-6.88 3.84002,-7.2 3.68,-7.199999 3.03998,-7.520004 2.72,-7.68 2.40002,-7.839997 1.91998,-8 1.44001,-8 0.95999,-8 0.64001,-8.16 0.16001,-8.159999 -0.32001,-8 -0.79999,-8.16 -1.12002,-8.000001 -1.59998,-8 -1.92001,-8 -2.56,-7.68 -2.72,-7.68 -3.35999,-7.36 -3.68002,-7.360001 -4,-7.039997 -4.47998,-6.880001 -4.64002,-6.560002 -5.27999,-6.239997 -5.44001,-6.080002 -5.75999,-5.760002 -6.08,-5.439995 -6.4,-4.959999 -6.56,-4.800003 -6.88,-4.32 -7.03999,-4 -7.36,-3.520001 -7.52001,-3.2 -7.52,-2.88 -7.84,-2.4 -7.84,-1.92 -8,-1.6 -8.16,-0.96 -8,-0.64 -8.32001,-0.32"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(28.306662,290.49325)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 0,0 5.44,-0.16 5.44,-0.64 5.28,-0.96 5.280001,-1.28 5.119998,-1.76 4.960001,-1.92 4.8,-2.56 4.639999,-2.72 4.48,-3.04 4.159999,-3.36 4,-3.68 3.520001,-4 3.52,-4.16 3.040001,-4.480001 2.720002,-4.64 2.400001,-4.799999 2.079994,-4.959999 1.760002,-5.120003 1.279999,-5.119999 0.959999,-5.440002 0.64,-5.279999 0.160003,-5.439995 -0.160003,-5.280006 -0.64,-5.439995 -0.959999,-5.279999 -1.279999,-5.280006 -1.760002,-5.119997 -2.079994,-4.96 -2.400001,-4.8 -2.720002,-4.64 -3.040001,-4.48 -3.52,-4.16 -3.520001,-4.00001 -4,-3.67999 -4.159999,-3.36 -4.48,-3.03999 -4.639999,-2.72 -4.8,-2.40001 -4.960001,-2.08 -5.119998,-1.76 -5.280001,-1.28 -5.28,-0.96 -5.44,-0.64 -5.44,-0.15999"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(174.70667,176.09328)"
+       clip-path="url(#clipPath4)" />
+  </g>
+</svg>

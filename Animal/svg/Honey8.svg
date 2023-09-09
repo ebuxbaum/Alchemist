@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="763.06665"
+   height="523.23999"
+   viewBox="0 0 763.06665 523.23999"
+   sodipodi:docname="Honey8.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-559.68,-826.23999)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="763.06665"
+       height="523.23999"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 298.07999,373.12 36.48,826.23999 H 559.67999 L 298.07999,373.12"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-17.346667,-344.37339)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 0,0 6.88,3.52 7.2,3.2 7.200001,2.72 7.359998,2.4 7.680001,1.76 7.52,1.44 7.84,0.96 7.680001,0.639999 h 7.839996 l 7.68,-0.319999 7.680001,-0.8 7.68,-1.44 7.68,-1.6 7.360002,-2.24 7.36,-2.56 7.2,-3.2 6.88,-3.36 6.72,-3.84 6.56,-4.32 6.24,-4.64 5.92,-4.959999 5.59999,-5.280001 5.44001,-5.76 4.96,-5.919998 4.64,-6.240002 4.16001,-6.560002 4,-6.719997 3.36,-6.880001 3.03999,-7.199997 2.72,-7.360001 2.08,-7.36 1.76,-7.68 1.28,-7.680001 0.96,-7.680001 0.32,-7.68 -0.15999,-7.84 -0.48001,-7.68 -0.96,-7.84 -1.44,-7.52 -1.92,-7.51999"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(542.33333,481.8666)"
+       clip-path="url(#clipPath4)" />
+  </g>
+</svg>

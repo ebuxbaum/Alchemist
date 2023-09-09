@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="418.89334"
+   height="440.48001"
+   viewBox="0 0 418.89334 440.48001"
+   sodipodi:docname="Amalgame3.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-584.79999,-759.03998)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="418.89334"
+       height="440.48001"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 -0.32,-9.28 -0.64,-9.12 -1.12,-9.12 -1.6,-9.119999 -1.92,-8.959999 -2.56,-8.960003 -2.88,-8.8 -3.36,-8.479995 -3.68,-8.480004 -4.16,-8.319999 -4.479999,-8 L -31.68,-104.48 l -5.279999,-7.52 -5.760002,-7.2 -5.919998,-7.04 -6.400002,-6.56 -6.719997,-6.4 -7.040005,-6.08 -7.199997,-5.6 -7.519997,-5.44001 -7.840004,-4.79998 -8,-4.64 -8.319999,-4.16001 -8.32,-3.68001 -8.64,-3.36 -8.8,-2.87999 -8.8,-2.4 -9.12,-2.08001 -8.96001,-1.59999 -9.28,-1.11999 -9.11999,-0.64 -9.28,-0.16001 -9.11999,0.16001 -9.28,0.64 -9.12001,1.11999 -9.12,1.59999 -8.96001,2.08001 -8.95999,2.4 -8.64,2.87999 -8.64,3.36 -8.48001,3.68001 -8.16,4.16001 -8,4.64 -7.84,4.79998 -7.51999,5.44001 -7.36001,5.6 -6.87998,6.08 -6.72,6.4 -6.40002,6.56 -6.07999,7.04 -5.6,7.2 -5.28,7.52 -4.96,7.840001 -4.48001,8 -4.16,8.319999 -3.84,8.480004 -3.19998,8.479995 -3.04001,8.8 -2.39999,8.960003 -2.08002,8.959999 -1.44,9.119999 -1.11999,9.12 -0.79999,9.12 L -375.84,0"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(584.79999,763.03992)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 246.39999,495.67999 H 548.47998"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,3.9999413)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="M 397.76001,568.96002 V 363.51999"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,3.9999413)"
+       clip-path="url(#clipPath6)" />
+    <path
+       id="path7"
+       d="M 246.39999,439.04001 H 548.47998"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,3.9999413)"
+       clip-path="url(#clipPath8)" />
+  </g>
+</svg>

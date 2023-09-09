@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="434.90668"
+   height="532.58667"
+   viewBox="0 0 434.90668 532.58667"
+   sodipodi:docname="MagnesiaOfGold.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-585.59998,-580.15997)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-208,-806.71997)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="434.90668"
+       height="532.58667"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 c 0,-41.700001 -33.810001,-75.519997 -75.519997,-75.519997 -41.710003,0 -75.519993,33.819996 -75.519993,75.519997 0,41.700001 33.80999,75.519997 75.519993,75.519997 C -33.810001,75.519997 0,41.700001 0,0 Z"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(585.59998,532.10658)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 0,0 10.56,-0.16 20.959999,-0.96 31.360001,-2.24 41.759998,-3.84 52,-6.08 62.080002,-8.64 72,-11.68 81.919998,-15.36 91.519997,-19.360001 101.12,-23.68 l 9.12,-4.959999 9.12,-5.279999 8.8,-5.760002 8.48,-6.079998 8.16,-6.560002 7.84,-6.880001 7.68001,-7.200001 7.19999,-7.519996 6.87999,-7.840004 6.40001,-8.32 6.23999,-8.479996 5.60001,-8.800002 5.28,-8.96 4.96,-9.28 4.48,-9.43999 4,-9.60001 3.52,-9.92 3.04,-9.92 2.72,-10.24 2.08,-10.24001 1.76,-10.23999 1.12001,-10.40001 0.79998,-10.39999 0.16001,-10.56 -0.16001,-10.40001 -0.79998,-10.55999 -1.12001,-10.24001 -1.76,-10.39999 -2.08,-10.23999 -2.72,-10.08002 -3.04,-10.07999 -3.52,-9.76001 -4,-9.75998 -4.48,-9.44 -4.96,-9.28 -5.28,-8.96002 -5.60001,-8.79999 -6.23999,-8.48001 -6.40001,-8.16 -6.87999,-8 -7.19999,-7.51999 -7.68001,-7.20001 -7.84,-6.87998 -8.16,-6.56 -8.48,-6.08001 -8.8,-5.76001 -9.12,-5.28 -9.12,-4.79999 -9.600003,-4.48001 -9.599999,-4 L 72,-441.28 62.080002,-444.48001 52,-447.04001 41.759998,-449.28 31.360001,-450.88 20.959999,-452.16 10.56,-452.79999 0,-453.12"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(208,758.66658)"
+       clip-path="url(#clipPath4)" />
+  </g>
+</svg>

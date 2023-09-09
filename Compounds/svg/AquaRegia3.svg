@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="317.49332"
+   height="337.70667"
+   viewBox="0 0 317.49332 337.70667"
+   sodipodi:docname="AquaRegia3.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-482.07998,-525.44001)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-484.64001,-525.59998)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="317.49332"
+       height="337.70667"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 4.32,-0.16 4.32,-0.48 4.16,-0.96 4.159999,-1.12 4,-1.6 4,-1.92 3.68,-2.24 3.520001,-2.4 3.36,-2.72 3.040001,-3.039999 L 41.439999,-20 44,-23.52 l 2.240002,-3.680001 1.919998,-3.84 1.599998,-4 1.280003,-4.16 0.959999,-4.16 0.639999,-4.319999 0.16,-4.32 v -4.32 L 52.32,-60.639999 l -0.8,-4.160004 -1.119998,-4.159996 -1.600003,-4.160004 -1.759998,-3.839996 -2.080002,-3.840004 L 42.400002,-84.32 39.68,-87.68 36.799999,-90.879997 33.599998,-93.760002 30.08,-96.32 26.4,-98.559998 22.559999,-100.64 l -4,-1.6 -3.999999,-1.44 -4.16,-0.96 -4.32,-0.64 -4.32,-0.32 h -4.32 l -4.32,0.32 -4.32,0.8 -4.16,1.12 -4.000001,1.44 -4,1.6 -3.84,2.080002 -3.519998,2.400002 -3.520003,2.719993 -3.199997,2.880005"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(245.94665,133.01328)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 0,0 -4.48,0.48 -4.32,0.8 -4.16,1.28 -4.160001,1.6 -4,1.92 -3.839998,2.24 -3.520001,2.56 -3.36,2.88 -3.200001,3.039999 -2.879997,3.360001 -2.560002,3.68 -2.240001,3.68 -1.919998,4 -1.600003,4.16 -1.279998,4.16 -0.8,4.32 -0.479999,4.479999 -0.16,4.32 0.16,4.48 0.639999,4.319999 0.959999,4.320004 1.280003,4.32 1.599998,4 2.079998,4 2.240002,3.68 2.560001,3.68 2.879998,3.199997 3.2,3.200005 3.520001,2.719993 3.52,2.560005 3.84,2.239998 4,1.76 4.16,1.6 4.32,1.12 4.32,0.8 4.32,0.48 h 4.48 l 4.48,-0.16 4.32,-0.8 4.32,-0.96 4.16,-1.28 4,-1.76 4,-2.079998 L 34.080002,96 37.599998,93.279999 40.959999,90.400002 43.84,87.199997"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(248.50668,133.17325)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="M 447.51999,431.04001 353.12,714.23999 258.72,412.16"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-236.13333,-392.42673)"
+       clip-path="url(#clipPath6)" />
+  </g>
+</svg>

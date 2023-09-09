@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="474.92001"
+   height="423.13333"
+   viewBox="0 0 474.92001 423.13333"
+   sodipodi:docname="ZincSulphate20.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-604.47998,-657.12)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-604.47998,-656.96002)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="474.92001"
+       height="423.13333"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 c 0,-62.560001 -84.519997,-113.28 -188.8,-113.28 -104.27999,0 -188.80001,50.719999 -188.80001,113.28 0,62.560001 84.52002,113.28 188.80001,113.28 C -84.519997,113.28 0,62.560001 0,0 Z"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(448.39998,288.71994)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 0,0 -0.48,-11.36 -0.96,-11.359999 -1.44,-11.360003 -1.76,-11.359997 -2.4,-11.2 L -9.92,-67.68 -13.28,-78.720001 -16.959999,-89.599998 -21.280001,-100.16 -25.92,-110.72 l -5.120001,-10.24 -5.439999,-9.92 -6.080001,-9.92 -6.239998,-9.44 -6.720001,-9.28 -7.200001,-8.96 -7.519997,-8.63999 -7.840004,-8.32001 -8.159996,-8 -8.639999,-7.67999 -8.800003,-7.36001 -9.12,-6.88 -9.44,-6.56 -9.76,-6.08 -9.92,-5.60001 -10.08,-5.27999 -10.39999,-4.96 -10.56002,-4.32 -10.87999,-4 -10.88,-3.51999 -11.03999,-3.04001 -11.20002,-2.56 -11.19999,-2.07999 -11.36,-1.6 -11.36,-1.12 -11.51999,-0.64001 -11.52002,-0.16 -11.35999,0.32 -11.51999,0.63999 -11.36001,1.28 -11.35999,1.76001 -11.20001,2.23999 -11.04001,2.72 -11.03998,3.20001 -10.88,3.52 -10.72,4.16001 -10.56,4.47999 -10.4,4.95999 -10.08001,5.28 -9.91999,5.76001"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(448.39998,288.55996)"
+       clip-path="url(#clipPath4)" />
+  </g>
+</svg>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="349.51999"
+   height="424.45334"
+   viewBox="0 0 349.51999 424.45334"
+   sodipodi:docname="TerraPonderosa.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-245.75999,-296.95999)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="349.51999"
+       height="424.45334"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 0.32,8.16 0.64,8.16 1.12,8.16 1.44,8 2.08,8 2.4,7.84 2.72,7.68 3.36,7.52 3.52,7.200001 4,7.199997 4.48,6.880005 4.799999,6.559998 L 36,97.760002 41.439999,103.84 l 5.760002,5.92 6.079998,5.44 6.400001,5.12 6.720002,4.8 6.879997,4.32 7.040001,4 7.36,3.67999 7.519997,3.20002 7.680003,2.87999 7.84,2.40001 7.84,1.91999 8.16,1.59999 8,1.12001 8.16,0.64 8.15999,0.15999 8.16001,-0.15999 8.16,-0.64 8.16,-1.12001 8,-1.59999 8,-1.91999 7.84,-2.40001 7.67999,-2.87999 7.52001,-3.20002 7.19999,-3.67999 7.20002,-4 6.87999,-4.32 6.72,-4.8 6.24,-5.12 6.08,-5.44 5.91999,-5.92 5.44,-6.079998 5.12,-6.400001 4.80001,-6.559998 4.32001,-6.880005 4,-7.199997 L 288.16,63.52 291.35999,56 l 2.88,-7.68 2.40002,-7.84 1.91999,-8 1.6,-8 1.12,-8.16 0.64001,-8.16 0.15998,-8.16"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(18.973328,20.653266)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 396.79999,448 V 674.56"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-226.78667,-276.30673)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="m 245.75999,523.52002 h 302.08004 v 75.51996 H 245.75999 v -75.51996"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-226.78667,-276.30673)"
+       clip-path="url(#clipPath6)" />
+  </g>
+</svg>

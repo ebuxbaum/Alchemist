@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="365.51999"
+   height="503.21332"
+   viewBox="0 0 365.51999 503.21332"
+   sodipodi:docname="Quintessence21.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-245.76,-636.79999)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="365.51999"
+       height="503.21332"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 547.84003,334.72 H 321.28"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-213.45333,-312.34673)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 321.28,334.72 V 504.64001"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-213.45333,-312.34673)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="m 0,0 0.32,8.16 0.64,8.32 1.12,8 1.6,8.159999 1.92,8 L 8,48.48 l 2.88,7.68 3.2,7.52 3.68,7.360001 4,7.040001 4.48,7.040001 L 31.040001,91.68 36.32,98.080002 41.759998,104.16 47.52,109.92 l 6.239998,5.6 6.400002,5.12 6.560001,4.64 7.040001,4.47999 7.199997,4 7.360001,3.52001 7.519996,3.36 7.680004,2.72 7.84,2.39999 8,1.92 8.16,1.44 8,1.12001 8.32,0.64 8.16,0.15999 8.16,-0.31999 8.16001,-0.64 8.15999,-1.11999 8,-1.60001 8,-2.08 7.84001,-2.56 7.67999,-2.88 7.52,-3.2 7.36,-3.67999 7.04,-4.16001 6.88,-4.48 6.72,-4.8 6.4,-5.28 5.92,-5.44 5.76001,-5.92 5.44,-6.079997 5.11999,-6.560005 4.79999,-6.720001 4.32001,-6.879998 4,-7.199997 3.51999,-7.36 3.20001,-7.68 2.72,-7.680001 2.4,-7.84 1.76,-8.000002 1.44001,-8.16 L 301.44,14.56 l 0.48001,-8.16 0.15998,-8.16 -0.31998,-8.16 -0.80002,-8.16 -1.11999,-8.16 -1.60001,-8.000002 -2.07999,-8 -2.55999,-7.84 -3.04001,-7.679996 -3.20001,-7.520001 -3.84,-7.200004 -4.16,-7.199997 -4.47999,-6.879998 -4.80001,-6.560005 -5.28,-6.239998 -5.59998,-6.079999 -5.92001,-5.76 -6.24001,-5.28 -6.39999,-5.12 -6.72,-4.64 -7.04,-4.32 -7.20001,-4 -7.35998,-3.52 -7.68001,-3.03999 -7.67999,-2.72001 -7.84002,-2.4 -8,-1.76 -8.15998,-1.44 -8.16001,-0.95999 -8.16,-0.48001 -8.16,-0.15999 -8.32,0.47999 -8.16,0.80001 -8,1.27999 -8.16,1.6 -7.84,2.08 -7.84,2.56 -7.679997,3.04 -7.520004,3.36 -7.360001,3.68"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(32.306662,324.45326)"
+       clip-path="url(#clipPath6)" />
+  </g>
+</svg>

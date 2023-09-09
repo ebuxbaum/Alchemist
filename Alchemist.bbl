@@ -1,0 +1,1461 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{Sym-23}{misc}{}
+      \list{organization}{1}{%
+        {STANDS4 LLC}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{web-site, accessed 2023-03-23}
+      \field{title}{Symbols.com}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.symbols.com/category/9/Alchemical+Symbols
+      \endverb
+      \verb{url}
+      \verb https://www.symbols.com/category/9/Alchemical+Symbols
+      \endverb
+    \endentry
+    \entry{Ano-72}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7079c72c21415131774625ba1d64f4b0}{%
+           family={Anonymous},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ulm (DE)}%
+      }
+      \list{publisher}{1}{%
+        {August Lebrecht Stettin}%
+      }
+      \strng{namehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{fullhash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{bibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorbibnamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authornamehash}{7079c72c21415131774625ba1d64f4b0}
+      \strng{authorfullhash}{7079c72c21415131774625ba1d64f4b0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Medicinisch=Chymisch und Alchemistisches Oraculum, darin man nicht nur alle Zeichen und Abkürzungen welche so wohl in den Recepten und Büchern der Aerzte und Apotheker als auch in den Schriften der Chemisten und Alchemisten vorkommen findet sondern deme auch ein sehr rares Chymisches Manuskript eines gewissen Reichs*** beygefügt [Medical-chemical and alchemist dictonary, containing not only all the signs and abbreviations found in the prescriptions of physicians and pharmacists and the writings of chemists and alchemists, but also with a rare chemical manuscript from a certain empirial ***]}
+      \field{year}{1772}
+      \verb{urlraw}
+      \verb https://archive.org/details/b30522535
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/b30522535
+      \endverb
+    \endentry
+    \entry{Get-81}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e63393bae1c8a77e3266919a3f4d1a11}{%
+           family={Gettings},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London (UK), Boston (MA, USA), Henle-on-Thames (UK)}%
+      }
+      \list{publisher}{1}{%
+        {Routledge \& Kegan Paul Ltd}%
+      }
+      \strng{namehash}{e63393bae1c8a77e3266919a3f4d1a11}
+      \strng{fullhash}{e63393bae1c8a77e3266919a3f4d1a11}
+      \strng{bibnamehash}{e63393bae1c8a77e3266919a3f4d1a11}
+      \strng{authorbibnamehash}{e63393bae1c8a77e3266919a3f4d1a11}
+      \strng{authornamehash}{e63393bae1c8a77e3266919a3f4d1a11}
+      \strng{authorfullhash}{e63393bae1c8a77e3266919a3f4d1a11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780710000958}
+      \field{title}{Dictionary of Occult, Hermetic and Alchemical Sigils}
+      \field{year}{1981}
+      \verb{urlraw}
+      \verb http://library.lol/main/CCBB928657F60FB57653DF91C4686CC8
+      \endverb
+      \verb{url}
+      \verb http://library.lol/main/CCBB928657F60FB57653DF91C4686CC8
+      \endverb
+    \endentry
+    \entry{Mar-20}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ee094dac3c1b03ad1cc4d959217512b0}{%
+           family={Martin-Faber},
+           familyi={M\bibinithyphendelim F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee094dac3c1b03ad1cc4d959217512b0}
+      \strng{fullhash}{ee094dac3c1b03ad1cc4d959217512b0}
+      \strng{bibnamehash}{ee094dac3c1b03ad1cc4d959217512b0}
+      \strng{authorbibnamehash}{ee094dac3c1b03ad1cc4d959217512b0}
+      \strng{authornamehash}{ee094dac3c1b03ad1cc4d959217512b0}
+      \strng{authorfullhash}{ee094dac3c1b03ad1cc4d959217512b0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{web-site, accessed 2023-04-10}
+      \field{subtitle}{Hermetic and Alchemical Symbols, Angels \& Demons}
+      \field{title}{Book of Symbols}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://sigilsblog.wordpress.com/category/sigils/
+      \endverb
+      \verb{url}
+      \verb https://sigilsblog.wordpress.com/category/sigils/
+      \endverb
+    \endentry
+    \entry{Uni-22}{misc}{}
+      \list{organization}{1}{%
+        {Unicode, Inc.}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{web-document, accessed 2023-03-23}
+      \field{title}{The Unicode Standard, Version 15.0}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://home.unicode.org/
+      \endverb
+      \verb{url}
+      \verb https://home.unicode.org/
+      \endverb
+    \endentry
+    \entry{Ant-62}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cc8ead7df4fe00df50763acc7aa5ef21}{%
+           family={Anthon},
+           familyi={A\bibinitperiod},
+           given={E.F.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris (FR)}%
+      }
+      \list{publisher}{1}{%
+        {J. Rothschild}%
+      }
+      \strng{namehash}{cc8ead7df4fe00df50763acc7aa5ef21}
+      \strng{fullhash}{cc8ead7df4fe00df50763acc7aa5ef21}
+      \strng{bibnamehash}{cc8ead7df4fe00df50763acc7aa5ef21}
+      \strng{authorbibnamehash}{cc8ead7df4fe00df50763acc7aa5ef21}
+      \strng{authornamehash}{cc8ead7df4fe00df50763acc7aa5ef21}
+      \strng{authorfullhash}{cc8ead7df4fe00df50763acc7aa5ef21}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{latin}
+      \field{title}{Manuel de synonymie chimico-pharmaceutique, chimique et pharmaceutique, ou, Nomenclature de toutes les dénominations latines, allemandes et françaises des produits chimiques et matières premières médicinales [Manual of chemical-pharmaceutical, chemical and pharmaceutical synonyms, or, Nomenclature of all Latin, German and French names of chemical products and medicinal raw materials]}
+      \field{year}{1862}
+      \verb{urlraw}
+      \verb https://archive.org/details/b28139914
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/b28139914
+      \endverb
+    \endentry
+    \entry{Rul-12}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f57ede8d3cc6a01b1001d5bc0d6926a9}{%
+           family={Rulandus},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt (DE)}%
+      }
+      \list{publisher}{1}{%
+        {Zachariah Palthenus}%
+      }
+      \strng{namehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{fullhash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{bibnamehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{authorbibnamehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{authornamehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{authorfullhash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tatsächlicher Author ist M.R. der Jüngere (1569 -- 1611), nicht wie vielfach behauptet sein Vater M.R. der Ältere (1532 -– 1602)}
+      \field{isbn}{3487006316}
+      \field{langid}{latin}
+      \field{note}{Published posthumously}
+      \field{relatedtype}{translated}
+      \field{title}{Lexicon Alchemiæ sive dictionarium alchemisticum cum obscuriorum verbum \& rerum hermeticarum tum Theophrast-Paracelsicarum phrasium planam explicationem continens}
+      \field{year}{1612}
+      \field{related}{044b1b09735129ce969e8daffa4e0e11}
+      \verb{urlraw}
+      \verb https://books.google.be/books?id=BhIOAAAAQAAJ&hl=de
+      \endverb
+      \verb{url}
+      \verb https://books.google.be/books?id=BhIOAAAAQAAJ&hl=de
+      \endverb
+    \endentry
+    \entry{Dud-80}{book}{}
+      \name{author}{1}{}{%
+        {{hash=80d1c1689cec8915b822b15341fae225}{%
+           family={Duden},
+           familyi={D\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leipzig (DE)}%
+      }
+      \list{publisher}{1}{%
+        {Verlag des bibliographischen Instituts}%
+      }
+      \strng{namehash}{80d1c1689cec8915b822b15341fae225}
+      \strng{fullhash}{80d1c1689cec8915b822b15341fae225}
+      \strng{bibnamehash}{80d1c1689cec8915b822b15341fae225}
+      \strng{authorbibnamehash}{80d1c1689cec8915b822b15341fae225}
+      \strng{authornamehash}{80d1c1689cec8915b822b15341fae225}
+      \strng{authorfullhash}{80d1c1689cec8915b822b15341fae225}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{langid}{german}
+      \field{title}{Vollständiges Orthographisches Wörterbuch der deutschen Sprache [Complete orthographic dictionary of the German language]}
+      \field{year}{1880}
+      \verb{urlraw}
+      \verb https://digital.ub.uni-leipzig.de/mirador/index.php
+      \endverb
+      \verb{url}
+      \verb https://digital.ub.uni-leipzig.de/mirador/index.php
+      \endverb
+    \endentry
+    \entry{Pto-00}{book}{}
+      \name{author}{1}{}{%
+        {{hash=059533f860676b80909b5b5ea7df7b78}{%
+           family={{{\foreignlanguage{greek}{Κλαύδιος Πτολεμαῖος}} [Klaúdios Ptolemaíos]}},
+           familyi={g\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=5ed60417ab19cc6b7efefcdce17e52ba}{%
+           family={Ptolemaíos},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Alexandria (EG)}%
+      }
+      \strng{namehash}{5ed60417ab19cc6b7efefcdce17e52ba}
+      \strng{fullhash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{bibnamehash}{5ed60417ab19cc6b7efefcdce17e52ba}
+      \strng{authorbibnamehash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{authornamehash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{authorfullhash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{shortauthorbibnamehash}{5ed60417ab19cc6b7efefcdce17e52ba}
+      \strng{shortauthornamehash}{5ed60417ab19cc6b7efefcdce17e52ba}
+      \strng{shortauthorfullhash}{5ed60417ab19cc6b7efefcdce17e52ba}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{langid}{greek}
+      \field{relatedtype}{translatedbyas}
+      \field{title}{{{\foreignlanguage{greek}{μέγιστη σύνταξις}} [megíste sýntaxis] [\textnormal{{\foreignlanguage{arabic}{المجسطي}}} al-maǧisṭī] [Almagest] }}
+      \field{year}{2nd Century AD}
+      \field{related}{41c9805c6f2f64518e9f4e6a196c74f0}
+    \endentry
+    \entry{Car-83}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d9d6f112bfb4821456a7f84bcd0571b1}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9d6f112bfb4821456a7f84bcd0571b1}
+      \strng{fullhash}{d9d6f112bfb4821456a7f84bcd0571b1}
+      \strng{bibnamehash}{d9d6f112bfb4821456a7f84bcd0571b1}
+      \strng{authorbibnamehash}{d9d6f112bfb4821456a7f84bcd0571b1}
+      \strng{authornamehash}{d9d6f112bfb4821456a7f84bcd0571b1}
+      \strng{authorfullhash}{d9d6f112bfb4821456a7f84bcd0571b1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{6045}
+      \field{title}{Double-blind test of astrology}
+      \field{volume}{318}
+      \field{year}{1983}
+      \field{pages}{419\bibrangedash 425}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/318419a0
+      \endverb
+      \verb{urlraw}
+      \verb https://escholarship.org/content/qt0b40b045/qt0b40b045.pdf
+      \endverb
+      \verb{url}
+      \verb https://escholarship.org/content/qt0b40b045/qt0b40b045.pdf
+      \endverb
+    \endentry
+    \entry{Fic-83}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d7ac15e068c7fa29449b758b49346eb8}{%
+           family={Fichten},
+           familyi={F\bibinitperiod},
+           given={C.S.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fe3115bb076e63c88cdc79360b497ebc}{%
+           family={Sunerton},
+           familyi={S\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cfecf66283326cd3b95200fc94fa647}
+      \strng{fullhash}{5cfecf66283326cd3b95200fc94fa647}
+      \strng{bibnamehash}{5cfecf66283326cd3b95200fc94fa647}
+      \strng{authorbibnamehash}{5cfecf66283326cd3b95200fc94fa647}
+      \strng{authornamehash}{5cfecf66283326cd3b95200fc94fa647}
+      \strng{authorfullhash}{5cfecf66283326cd3b95200fc94fa647}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Psychol.}
+      \field{number}{1}
+      \field{title}{Popular horoscopes and the ``{B}arnum effect''}
+      \field{volume}{114}
+      \field{year}{1983}
+      \field{pages}{123\bibrangedash 134}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/00223980.1983.9915405
+      \endverb
+    \endentry
+    \entry{Wun-08}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d6ac425a367978d04b98023c45ac375f}{%
+           family={Wunder},
+           familyi={W\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d6ac425a367978d04b98023c45ac375f}
+      \strng{fullhash}{d6ac425a367978d04b98023c45ac375f}
+      \strng{bibnamehash}{d6ac425a367978d04b98023c45ac375f}
+      \strng{authorbibnamehash}{d6ac425a367978d04b98023c45ac375f}
+      \strng{authornamehash}{d6ac425a367978d04b98023c45ac375f}
+      \strng{authorfullhash}{d6ac425a367978d04b98023c45ac375f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gehirn \& Geist}
+      \field{langid}{german}
+      \field{number}{3}
+      \field{title}{{Die Kunst der Sterndeuter} [The methods of astrologists]}
+      \field{year}{2008}
+      \field{pages}{16\bibrangedash 23}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.spektrum.de/pdf/gug-08-03-s016-pdf/942364
+      \endverb
+      \verb{url}
+      \verb https://www.spektrum.de/pdf/gug-08-03-s016-pdf/942364
+      \endverb
+    \endentry
+    \entry{For-49}{article}{}
+      \name{author}{1}{}{%
+        {{hash=30e054d1d294ef8ae5d002848c4ff86d}{%
+           family={Forer},
+           familyi={F\bibinitperiod},
+           given={B.R.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{30e054d1d294ef8ae5d002848c4ff86d}
+      \strng{fullhash}{30e054d1d294ef8ae5d002848c4ff86d}
+      \strng{bibnamehash}{30e054d1d294ef8ae5d002848c4ff86d}
+      \strng{authorbibnamehash}{30e054d1d294ef8ae5d002848c4ff86d}
+      \strng{authornamehash}{30e054d1d294ef8ae5d002848c4ff86d}
+      \strng{authorfullhash}{30e054d1d294ef8ae5d002848c4ff86d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Abnorm. Psychol.}
+      \field{number}{1}
+      \field{title}{The fallacy of personal validation; a classroom demonstration of gullibility}
+      \field{volume}{44}
+      \field{year}{1949}
+      \field{pages}{118\bibrangedash 123}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1037/h0059240
+      \endverb
+    \endentry
+    \entry{Pla-40}{book}{}
+      \name{author}{1}{}{%
+        {{hash=aa45fde2d620d7bc5cedd0ca7da29601}{%
+           family={{{\foreignlanguage{greek}{Πλάτων}} [Plátōn]}},
+           familyi={g\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=801c84575bad74f02f6de79dd8e45ec8}{%
+           family={Plátōn},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Athens (GR)}%
+      }
+      \strng{namehash}{801c84575bad74f02f6de79dd8e45ec8}
+      \strng{fullhash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{bibnamehash}{801c84575bad74f02f6de79dd8e45ec8}
+      \strng{authorbibnamehash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{authornamehash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{authorfullhash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{shortauthorbibnamehash}{801c84575bad74f02f6de79dd8e45ec8}
+      \strng{shortauthornamehash}{801c84575bad74f02f6de79dd8e45ec8}
+      \strng{shortauthorfullhash}{801c84575bad74f02f6de79dd8e45ec8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{abstract}{gr. kosmology, 4 elements plus spirit}
+      \field{langid}{greek}
+      \field{relatedtype}{translatedbyas}
+      \field{title}{{{\foreignlanguage{greek}{Τίμαιος}} [Tímaios]}}
+      \field{year}{359}
+      \field{dateera}{bce}
+      \field{related}{dd831248fde975d69b9e141b7c971c31}
+    \endentry
+    \entry{Ale-81}{article}{}
+      \name{author}{5}{}{%
+        {{hash=9870a9f61afb30def035f1850840eed5}{%
+           family={Aleklett},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e5120c348688cbd3420dc8c5913892d4}{%
+           family={Morrissey},
+           familyi={M\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7ce6c1cb20b6d1458b9e72d47bcdbbc0}{%
+           family={Loveland},
+           familyi={L\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b9bdaa5b1cc891df4f41acadebd62eb1}{%
+           family={McGaughey},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi L.},
+           giveni={P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=aeebc2d2528c145e587ec58804957287}{%
+           family={Seaborg},
+           familyi={S\bibinitperiod},
+           given={G.\bibnamedelimi T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c60e27062193ed54ea63eeb04654ff1a}
+      \strng{fullhash}{c99c89c090d7dcd6cebf763e76d445cb}
+      \strng{bibnamehash}{c60e27062193ed54ea63eeb04654ff1a}
+      \strng{authorbibnamehash}{c60e27062193ed54ea63eeb04654ff1a}
+      \strng{authornamehash}{c60e27062193ed54ea63eeb04654ff1a}
+      \strng{authorfullhash}{c99c89c090d7dcd6cebf763e76d445cb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Phys. Rev. C}
+      \field{number}{3}
+      \field{title}{Energy dependence of \isotope[209][]{Bi} fragmentation in relativistic nuclear collisions}
+      \field{volume}{23}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{pages}{1044\bibrangedash 1046}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1103/PhysRevC.23.1044
+      \endverb
+    \endentry
+    \entry{Rei-96}{book}{}
+      \name{author}{1}{}{%
+        {{hash=24966570a25e766ed47345fd44fdf4c3}{%
+           family={Reising},
+           familyi={R\bibinitperiod},
+           given={Johannes\bibnamedelima Henman},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Breslau}%
+      }
+      \strng{namehash}{24966570a25e766ed47345fd44fdf4c3}
+      \strng{fullhash}{24966570a25e766ed47345fd44fdf4c3}
+      \strng{bibnamehash}{24966570a25e766ed47345fd44fdf4c3}
+      \strng{authorbibnamehash}{24966570a25e766ed47345fd44fdf4c3}
+      \strng{authornamehash}{24966570a25e766ed47345fd44fdf4c3}
+      \strng{authorfullhash}{24966570a25e766ed47345fd44fdf4c3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{library}{Austrian National Library Cod. 11450}
+      \field{note}{Austrian National Library Cod. 11450}
+      \field{title}{Alchymistische Kunst-Stücke in gutter Ordnungk [Alchemistic demonstrations in good order]}
+      \field{year}{1596}
+      \verb{urlraw}
+      \verb http://www.rudolf-werner-soukup.at/Publikationen/Dokumente/Transkription_korrigiert_Dezember_2022.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.rudolf-werner-soukup.at/Publikationen/Dokumente/Transkription_korrigiert_Dezember_2022.pdf
+      \endverb
+    \endentry
+    \entry{Sou-22}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b902678aac85c44ee9d4eca3c654eb26}{%
+           family={Soukup},
+           familyi={S\bibinitperiod},
+           given={R.W.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{fullhash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{bibnamehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{authorbibnamehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{authornamehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{authorfullhash}{b902678aac85c44ee9d4eca3c654eb26}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{web-page, accessed 2023-04-01}
+      \field{langid}{german}
+      \field{title}{Kommentar zur Handschrift Cod. 11450 der ÖNB „Alchymistische Kunststücke in gutter Ordnung“ von 1596 [Commentary about the manuscript Cod. 11450 of the Austrian National Library ``Alchemistic demonstrations in good order'' from 1596]}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb http://www.rudolf-werner-soukup.at/Publikationen/Dokumente/Kommentar_zur_Handschrift_Dezember_2022.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.rudolf-werner-soukup.at/Publikationen/Dokumente/Kommentar_zur_Handschrift_Dezember_2022.pdf
+      \endverb
+    \endentry
+    \entry{New-18}{book}{}
+      \name{author}{1}{}{%
+        {{hash=67ddf1ed5459f8297dfb745294b81a14}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={W.R.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Princeton (NJ, USA) \& Woodstock (UK)}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{67ddf1ed5459f8297dfb745294b81a14}
+      \strng{fullhash}{67ddf1ed5459f8297dfb745294b81a14}
+      \strng{bibnamehash}{67ddf1ed5459f8297dfb745294b81a14}
+      \strng{authorbibnamehash}{67ddf1ed5459f8297dfb745294b81a14}
+      \strng{authornamehash}{67ddf1ed5459f8297dfb745294b81a14}
+      \strng{authorfullhash}{67ddf1ed5459f8297dfb745294b81a14}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780691174877}
+      \field{subtitle}{Science, Enigma, and the Quest for Nature’s ``Secret Fire''}
+      \field{title}{Newton the Alchemist}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://cloudflare-ipfs.com/ipfs/bafykbzacecyvpqsohktq2dojt6pzzqpg4vfjwovaoqdjovyk47gq3vyeuelvw?filename=William%20R.%20Newman%20-%20Newton%20the%20Alchemist_%20Science%2C%20Enigma%2C%20and%20the%20Quest%20for%20Nature%E2%80%99s%20_Secret%20Fire_-Princeton%20University%20Press%20%282018%29.pdf
+      \endverb
+      \verb{url}
+      \verb https://cloudflare-ipfs.com/ipfs/bafykbzacecyvpqsohktq2dojt6pzzqpg4vfjwovaoqdjovyk47gq3vyeuelvw?filename=William%20R.%20Newman%20-%20Newton%20the%20Alchemist_%20Science%2C%20Enigma%2C%20and%20the%20Quest%20for%20Nature%E2%80%99s%20_Secret%20Fire_-Princeton%20University%20Press%20%282018%29.pdf
+      \endverb
+    \endentry
+    \entry{Mor-21}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=5915f4c123163cf2d3399f5d3ce82ce1}{%
+           family={Morris},
+           familyi={M\bibinitperiod},
+           given={P.J.T.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=676adab876595f0d0ef4e0328d846a34}{%
+           family={Rocke},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London (UK), New York (NY, USA), Oxford (UK), New Delhi (IN), Sydney (AU)}%
+      }
+      \list{publisher}{1}{%
+        {Bloomsbury Academic}%
+      }
+      \strng{namehash}{239b1ea51f8a0a15096a917a6ca08ff7}
+      \strng{fullhash}{239b1ea51f8a0a15096a917a6ca08ff7}
+      \strng{bibnamehash}{239b1ea51f8a0a15096a917a6ca08ff7}
+      \strng{editorbibnamehash}{239b1ea51f8a0a15096a917a6ca08ff7}
+      \strng{editornamehash}{239b1ea51f8a0a15096a917a6ca08ff7}
+      \strng{editorfullhash}{239b1ea51f8a0a15096a917a6ca08ff7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781474294928}
+      \field{title}{A cultural history of chemistry}
+      \field{volume}{1--6}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://library.oapen.org/bitstream/handle/20.500.12657/58853/1/9781350251472.pdf
+      \endverb
+      \verb{url}
+      \verb https://library.oapen.org/bitstream/handle/20.500.12657/58853/1/9781350251472.pdf
+      \endverb
+    \endentry
+    \entry{Pri-87}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0aa5237d4fa97e20b9c46434283faa2b}{%
+           family={Principe},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{0aa5237d4fa97e20b9c46434283faa2b}
+      \strng{fullhash}{0aa5237d4fa97e20b9c46434283faa2b}
+      \strng{bibnamehash}{0aa5237d4fa97e20b9c46434283faa2b}
+      \strng{authorbibnamehash}{0aa5237d4fa97e20b9c46434283faa2b}
+      \strng{authornamehash}{0aa5237d4fa97e20b9c46434283faa2b}
+      \strng{authorfullhash}{0aa5237d4fa97e20b9c46434283faa2b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ambix}
+      \field{number}{1}
+      \field{title}{``Chemical Translation'' and the Role of Impurities in Alchemy: Examples from Basil Valentine’s Triumph-Wagen}
+      \field{volume}{34}
+      \field{year}{1987}
+      \field{pages}{21\bibrangedash 30}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1179/amb.1987.34.1.21
+      \endverb
+    \endentry
+    \entry{Mic-21}{article}{}
+      \name{author}{4}{}{%
+        {{hash=332f3e537f8d0dfa10624e94ff07ec72}{%
+           family={Michaleas},
+           familyi={M\bibinitperiod},
+           given={S.N.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a27bc9196dacc2401eadc31740343ff4}{%
+           family={Laios},
+           familyi={L\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1684c2a8dd693979573c6e29d3354b9a}{%
+           family={Tsoucalas},
+           familyi={T\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=f7a4463e8581cd93986571dd7f4ff243}{%
+           family={Androutsos},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{dae913d972e900c476ea24b9e0460e6c}
+      \strng{fullhash}{696d2e024a08dcd8820e08f20d935f3f}
+      \strng{bibnamehash}{dae913d972e900c476ea24b9e0460e6c}
+      \strng{authorbibnamehash}{dae913d972e900c476ea24b9e0460e6c}
+      \strng{authornamehash}{dae913d972e900c476ea24b9e0460e6c}
+      \strng{authorfullhash}{696d2e024a08dcd8820e08f20d935f3f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Toxicol. Rep.}
+      \field{langid}{german}
+      \field{title}{Theophrastus Bombastus Von Hohenheim (Paracelsus) \num{1493}-–\num{1541}: The eminent physician and pioneer of toxicology}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{411\bibrangedash 414}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.toxrep.2021.02.012
+      \endverb
+    \endentry
+    \entry{Por-02}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c1ed9ed0e5e918c01ae1622946fb39cf}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1ed9ed0e5e918c01ae1622946fb39cf}
+      \strng{fullhash}{c1ed9ed0e5e918c01ae1622946fb39cf}
+      \strng{bibnamehash}{c1ed9ed0e5e918c01ae1622946fb39cf}
+      \strng{authorbibnamehash}{c1ed9ed0e5e918c01ae1622946fb39cf}
+      \strng{authornamehash}{c1ed9ed0e5e918c01ae1622946fb39cf}
+      \strng{authorfullhash}{c1ed9ed0e5e918c01ae1622946fb39cf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bull. Hist. Med.}
+      \field{number}{1}
+      \field{title}{``Summus atque felicissimus salium'': The Medical Relevance of the Liquor Alkahest}
+      \field{volume}{76}
+      \field{year}{2002}
+      \field{pages}{1\bibrangedash 29}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1353/bhm.2002.0038
+      \endverb
+    \endentry
+    \entry{Par-74}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4792bd1e4f99a54cb13cb83c6dfebcb8}{%
+           family={Paracelsus},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Basel (CH)}%
+      }
+      \list{publisher}{1}{%
+        {Perna}%
+      }
+      \strng{namehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{fullhash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{bibnamehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{authorbibnamehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{authornamehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{authorfullhash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{relatedtype}{editedbyas}
+      \field{title}{3. Defension, von wegen der Beschreibung der neuen Recepten [3rd defence, about the nature of the new prescriptions]}
+      \field{year}{1574}
+      \field{related}{5e84c7cadc15ccf33eaac291bb020bf1}
+      \verb{urlraw}
+      \verb http://www.zeno.org/Lesesaal/N/9781484049662?page=72&ps=\%21
+      \endverb
+      \verb{url}
+      \verb http://www.zeno.org/Lesesaal/N/9781484049662?page=72&ps=%5C%21
+      \endverb
+    \endentry
+    \entry{Dee-64}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ad2551a9b9c981406113e59e5281b9bb}{%
+           family={Dee},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Antwerp (BE)}%
+      }
+      \list{publisher}{1}{%
+        {Willem Silvius}%
+      }
+      \strng{namehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{fullhash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{bibnamehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{authorbibnamehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{authornamehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{authorfullhash}{ad2551a9b9c981406113e59e5281b9bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{latin}
+      \field{relatedtype}{translatedbyas}
+      \field{title}{Monas hieroglyphica [The monad symbol]}
+      \field{year}{1564}
+      \field{related}{2abeb423ee00eaafd3bc199cb9dc0af5}
+      \verb{urlraw}
+      \verb https://www.loc.gov/resource/rbc0001.2009fabyan23473/
+      \endverb
+      \verb{url}
+      \verb https://www.loc.gov/resource/rbc0001.2009fabyan23473/
+      \endverb
+    \endentry
+    \entry{Pri-98}{book}{}
+      \name{author}{2}{}{%
+        {{hash=86176bee57d84379b5bba23be34957f5}{%
+           family={Priesner},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=24e2b95869cf1896b782ca9a44be1b29}{%
+           family={Figala},
+           familyi={F\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Munich (DE)}%
+      }
+      \list{publisher}{1}{%
+        {CH Beck}%
+      }
+      \strng{namehash}{7c1633e013f85105697ca2e9a36482f0}
+      \strng{fullhash}{7c1633e013f85105697ca2e9a36482f0}
+      \strng{bibnamehash}{7c1633e013f85105697ca2e9a36482f0}
+      \strng{authorbibnamehash}{7c1633e013f85105697ca2e9a36482f0}
+      \strng{authornamehash}{7c1633e013f85105697ca2e9a36482f0}
+      \strng{authorfullhash}{7c1633e013f85105697ca2e9a36482f0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783406441066}
+      \field{title}{Alchemie: Lexikon einer hermetischen Wissenschaft [Alchemy: Dictionary of a hermetic science]}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb https://libgen.rocks/ads.php?md5=0B0150867DAE0BBA0FCC954A8B95BA60
+      \endverb
+      \verb{url}
+      \verb https://libgen.rocks/ads.php?md5=0B0150867DAE0BBA0FCC954A8B95BA60
+      \endverb
+    \endentry
+    \entry{Duf-13}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=e3c2133732edc94c3948e3e88aff00a2}{%
+           family={Duffin},
+           familyi={D\bibinitperiod},
+           given={C.J.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=e3c2133732edc94c3948e3e88aff00a2}{%
+           family={Duffin},
+           familyi={D\bibinitperiod},
+           given={C.J.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7bff310bf8269ec4bc58b48ccd4e5807}{%
+           family={Moody},
+           familyi={M\bibinitperiod},
+           given={R.T.J.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f922a7c1900cdfbe4e56c39e6ca5dba9}{%
+           family={Gardner-Thorpe},
+           familyi={G\bibinithyphendelim T\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Geological Society}%
+      }
+      \strng{namehash}{e3c2133732edc94c3948e3e88aff00a2}
+      \strng{fullhash}{e3c2133732edc94c3948e3e88aff00a2}
+      \strng{bibnamehash}{e3c2133732edc94c3948e3e88aff00a2}
+      \strng{authorbibnamehash}{e3c2133732edc94c3948e3e88aff00a2}
+      \strng{authornamehash}{e3c2133732edc94c3948e3e88aff00a2}
+      \strng{authorfullhash}{e3c2133732edc94c3948e3e88aff00a2}
+      \strng{editorbibnamehash}{fd20bce1f1d54d1e0f458e6880ec1f71}
+      \strng{editornamehash}{fd20bce1f1d54d1e0f458e6880ec1f71}
+      \strng{editorfullhash}{fd20bce1f1d54d1e0f458e6880ec1f71}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A History of Geology and Medicine}
+      \field{number}{1}
+      \field{series}{Geological Society, London, Special Publications}
+      \field{title}{Some early eighteenth century geological Materia Medica}
+      \field{volume}{375}
+      \field{year}{2013}
+      \field{pages}{209\bibrangedash 233}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1144/SP375.13
+      \endverb
+    \endentry
+    \entry{Mai-60}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b07316d1e355a530420db1254940037b}{%
+           family={Maiman},
+           familyi={M\bibinitperiod},
+           given={T.H.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{b07316d1e355a530420db1254940037b}
+      \strng{fullhash}{b07316d1e355a530420db1254940037b}
+      \strng{bibnamehash}{b07316d1e355a530420db1254940037b}
+      \strng{authorbibnamehash}{b07316d1e355a530420db1254940037b}
+      \strng{authornamehash}{b07316d1e355a530420db1254940037b}
+      \strng{authorfullhash}{b07316d1e355a530420db1254940037b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{4736}
+      \field{title}{Stimulated optical radiation in ruby}
+      \field{volume}{187}
+      \field{year}{1960}
+      \field{pages}{493\bibrangedash 494}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1038/187493a0
+      \endverb
+    \endentry
+    \entry{Bac-96}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e5b8684fb36ded3cd3483183a8f65a77}{%
+           family={Bächi-Nussbaumer},
+           familyi={B\bibinithyphendelim N\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bern (CH)}%
+      }
+      \list{publisher}{1}{%
+        {Paul Haupt}%
+      }
+      \strng{namehash}{e5b8684fb36ded3cd3483183a8f65a77}
+      \strng{fullhash}{e5b8684fb36ded3cd3483183a8f65a77}
+      \strng{bibnamehash}{e5b8684fb36ded3cd3483183a8f65a77}
+      \strng{authorbibnamehash}{e5b8684fb36ded3cd3483183a8f65a77}
+      \strng{authornamehash}{e5b8684fb36ded3cd3483183a8f65a77}
+      \strng{authorfullhash}{e5b8684fb36ded3cd3483183a8f65a77}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{4}
+      \field{isbn}{9783258052496}
+      \field{subtitle}{Ein Werkbuch zum Färben von Schafwolle mit vielen praktischen Hinweisen, Rezepten, Abbildungen, einem Pflanzenatlas und einem Lehrgang zum Karden und Spinnen}
+      \field{title}{So färbt man mit Pflanzen}
+      \field{year}{1996}
+    \endentry
+    \entry{Sou-10}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b902678aac85c44ee9d4eca3c654eb26}{%
+           family={Soukup},
+           familyi={S\bibinitperiod},
+           given={R.W.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{fullhash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{bibnamehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{authorbibnamehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{authornamehash}{b902678aac85c44ee9d4eca3c654eb26}
+      \strng{authorfullhash}{b902678aac85c44ee9d4eca3c654eb26}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Lecture manuscript}
+      \field{title}{\textit{Mercurius Solis}: Hunting a Mysterious Alchemical Substance}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://rudolf-werner-soukup.at/Publikationen/Dokumente/Mercurius_Solis.pdf
+      \endverb
+      \verb{url}
+      \verb https://rudolf-werner-soukup.at/Publikationen/Dokumente/Mercurius_Solis.pdf
+      \endverb
+    \endentry
+    \entry{Rip-71}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0155f1d94e9234b65ab0538e2db5c3d9}{%
+           family={Ripley},
+           familyi={R\bibinitperiod},
+           given={Sir\bibnamedelima George},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London (UK)}%
+      }
+      \list{publisher}{1}{%
+        {Ralph Rabbards}%
+      }
+      \strng{namehash}{0155f1d94e9234b65ab0538e2db5c3d9}
+      \strng{fullhash}{0155f1d94e9234b65ab0538e2db5c3d9}
+      \strng{bibnamehash}{0155f1d94e9234b65ab0538e2db5c3d9}
+      \strng{authorbibnamehash}{0155f1d94e9234b65ab0538e2db5c3d9}
+      \strng{authornamehash}{0155f1d94e9234b65ab0538e2db5c3d9}
+      \strng{authorfullhash}{0155f1d94e9234b65ab0538e2db5c3d9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781497945739}
+      \field{title}{The Compound of Alchemy}
+      \field{year}{1471}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://quod.lib.umich.edu/e/eebo/A10786.0001.001
+      \endverb
+      \verb{url}
+      \verb https://quod.lib.umich.edu/e/eebo/A10786.0001.001
+      \endverb
+    \endentry
+    \entry{Jun-44}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f38f8db27c7b12a33e4e00d832333e1c}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={C.G.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Zürich (CH)}%
+      }
+      \list{publisher}{1}{%
+        {Rascher Verlag}%
+      }
+      \strng{namehash}{f38f8db27c7b12a33e4e00d832333e1c}
+      \strng{fullhash}{f38f8db27c7b12a33e4e00d832333e1c}
+      \strng{bibnamehash}{f38f8db27c7b12a33e4e00d832333e1c}
+      \strng{authorbibnamehash}{f38f8db27c7b12a33e4e00d832333e1c}
+      \strng{authornamehash}{f38f8db27c7b12a33e4e00d832333e1c}
+      \strng{authorfullhash}{f38f8db27c7b12a33e4e00d832333e1c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{german}
+      \field{title}{Psychologie und Alchemie [Psychology and alchemy]}
+      \field{year}{1944}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Das-unk}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b8674d937a9eeca07a01223bd881836d}{%
+           family={Dastin},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b8674d937a9eeca07a01223bd881836d}
+      \strng{fullhash}{b8674d937a9eeca07a01223bd881836d}
+      \strng{bibnamehash}{b8674d937a9eeca07a01223bd881836d}
+      \strng{authorbibnamehash}{b8674d937a9eeca07a01223bd881836d}
+      \strng{authornamehash}{b8674d937a9eeca07a01223bd881836d}
+      \strng{authorfullhash}{b8674d937a9eeca07a01223bd881836d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Manuscript}
+      \field{relatedtype}{translatedbyas}
+      \field{title}{Epistola boni viri [Letter from a good man]}
+      \field{year}{unknown year}
+      \field{related}{52e4c3bca29d4afb6b5a32968312cb7e}
+    \endentry
+    \entry{Myn-38}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fb5ae40fd06216dd2f7608122726f6c4}{%
+           family={Mynsicht},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lübeck (DE)}%
+      }
+      \list{publisher}{1}{%
+        {Sumptibus Henrici Schernvvebelii et typis Valentini Schmalhertzii}%
+      }
+      \strng{namehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{fullhash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{bibnamehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{authorbibnamehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{authornamehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{authorfullhash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{latin}
+      \field{relatedtype}{translatedbyas}
+      \field{title}{Thesaurus et armamentarium medico-chymicum [Medico-chemical treasure and arsenal]}
+      \field{year}{1638}
+      \field{related}{b1865051ed8b3fbcf6ba959c22a689cf}
+      \verb{urlraw}
+      \verb https://books.google.de/books?id=QlVHuAAACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.de/books?id=QlVHuAAACAAJ
+      \endverb
+    \endentry
+    \entry{044b1b09735129ce969e8daffa4e0e11}{book}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{1}{}{%
+        {{hash=f57ede8d3cc6a01b1001d5bc0d6926a9}{%
+           family={Rulandus},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=8ce6a08fed73a96faf4340a54c173ca4}{%
+           family={Waite},
+           familyi={W\bibinitperiod},
+           given={A.E.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London (UK)}%
+      }
+      \list{publisher}{1}{%
+        {J.M. Watkins}%
+      }
+      \strng{namehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{fullhash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{bibnamehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{authorbibnamehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{authornamehash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{authorfullhash}{f57ede8d3cc6a01b1001d5bc0d6926a9}
+      \strng{translatorbibnamehash}{8ce6a08fed73a96faf4340a54c173ca4}
+      \strng{translatornamehash}{8ce6a08fed73a96faf4340a54c173ca4}
+      \strng{translatorfullhash}{8ce6a08fed73a96faf4340a54c173ca4}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{Wai-93}
+      \field{isbn}{1417984341}
+      \field{title}{A Lexicon of Alchemy. Or Alchemical Dictionary Containing a Full and Plain Explanation of All Obscure Words, Hermetic Subjects, and Arcane Phrases of Paracelsus}
+      \field{year}{1893}
+      \verb{urlraw}
+      \verb https://archive.org/details/rvalandvs-alchemical-lexicon
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/rvalandvs-alchemical-lexicon
+      \endverb
+    \endentry
+    \entry{41c9805c6f2f64518e9f4e6a196c74f0}{book}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{1}{}{%
+        {{hash=059533f860676b80909b5b5ea7df7b78}{%
+           family={{{\foreignlanguage{greek}{Κλαύδιος Πτολεμαῖος}} [Klaúdios Ptolemaíos]}},
+           familyi={g\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=11f178ae2981fb050f42c8a2a7b07f91}{%
+           family={Toomer},
+           familyi={T\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=11f178ae2981fb050f42c8a2a7b07f91}{%
+           family={Toomer},
+           familyi={T\bibinitperiod},
+           given={G.J.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London (UK)}%
+      }
+      \list{publisher}{1}{%
+        {Duckworth}%
+      }
+      \strng{namehash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{fullhash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{bibnamehash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{authorbibnamehash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{authornamehash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{authorfullhash}{059533f860676b80909b5b5ea7df7b78}
+      \strng{editorbibnamehash}{11f178ae2981fb050f42c8a2a7b07f91}
+      \strng{editornamehash}{11f178ae2981fb050f42c8a2a7b07f91}
+      \strng{editorfullhash}{11f178ae2981fb050f42c8a2a7b07f91}
+      \strng{translatorbibnamehash}{11f178ae2981fb050f42c8a2a7b07f91}
+      \strng{translatornamehash}{11f178ae2981fb050f42c8a2a7b07f91}
+      \strng{translatorfullhash}{11f178ae2981fb050f42c8a2a7b07f91}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{Pto-84}
+      \field{title}{Ptolemy's Almagest}
+      \field{year}{1984}
+      \verb{urlraw}
+      \verb https://classicalliberalarts.com/resources/PTOLEMY_ALMAGEST_ENGLISH.pdf
+      \endverb
+      \verb{url}
+      \verb https://classicalliberalarts.com/resources/PTOLEMY_ALMAGEST_ENGLISH.pdf
+      \endverb
+    \endentry
+    \entry{dd831248fde975d69b9e141b7c971c31}{book}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{1}{}{%
+        {{hash=aa45fde2d620d7bc5cedd0ca7da29601}{%
+           family={{{\foreignlanguage{greek}{Πλάτων}} [Plátōn]}},
+           familyi={g\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=77734cfa5ed6b50a27483ea834eb902b}{%
+           family={Jowett},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=77734cfa5ed6b50a27483ea834eb902b}{%
+           family={Jowett},
+           familyi={J\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford (UK)}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{fullhash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{bibnamehash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{authorbibnamehash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{authornamehash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{authorfullhash}{aa45fde2d620d7bc5cedd0ca7da29601}
+      \strng{editorbibnamehash}{77734cfa5ed6b50a27483ea834eb902b}
+      \strng{editornamehash}{77734cfa5ed6b50a27483ea834eb902b}
+      \strng{editorfullhash}{77734cfa5ed6b50a27483ea834eb902b}
+      \strng{translatorbibnamehash}{77734cfa5ed6b50a27483ea834eb902b}
+      \strng{translatornamehash}{77734cfa5ed6b50a27483ea834eb902b}
+      \strng{translatorfullhash}{77734cfa5ed6b50a27483ea834eb902b}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{Pla-98}
+      \field{edition}{3}
+      \field{title}{The Dialogues of Plato, in 5 vols}
+      \field{year}{1892}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gutenberg.org/ebooks/1572
+      \endverb
+      \verb{url}
+      \verb https://www.gutenberg.org/ebooks/1572
+      \endverb
+    \endentry
+    \entry{5e84c7cadc15ccf33eaac291bb020bf1}{book}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{1}{}{%
+        {{hash=4792bd1e4f99a54cb13cb83c6dfebcb8}{%
+           family={Paracelsus},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=af2e6869d56716228df7bb15a75c896c}{%
+           family={Holzinger},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin (DE)}%
+      }
+      \list{publisher}{1}{%
+        {CreateSpace Independent Publishing Platform}%
+      }
+      \strng{namehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{fullhash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{bibnamehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{authorbibnamehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{authornamehash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{authorfullhash}{4792bd1e4f99a54cb13cb83c6dfebcb8}
+      \strng{editorbibnamehash}{af2e6869d56716228df7bb15a75c896c}
+      \strng{editornamehash}{af2e6869d56716228df7bb15a75c896c}
+      \strng{editorfullhash}{af2e6869d56716228df7bb15a75c896c}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{Hol-13}
+      \field{isbn}{9781484049662}
+      \field{subtitle}{Das Buch Paragranum / Septem Defensiones}
+      \field{title}{Werke Vol. 2:}
+      \field{year}{2013}
+      \field{pages}{72\bibrangedash 75}
+      \range{pages}{4}
+    \endentry
+    \entry{2abeb423ee00eaafd3bc199cb9dc0af5}{article}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{annotator}{1}{}{%
+        {{hash=6e5f2ffb9b9f017a1684608d855bd078}{%
+           family={Josten},
+           familyi={J\bibinitperiod},
+           given={C.H.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ad2551a9b9c981406113e59e5281b9bb}{%
+           family={Dee},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{introduction}{1}{}{%
+        {{hash=6e5f2ffb9b9f017a1684608d855bd078}{%
+           family={Josten},
+           familyi={J\bibinitperiod},
+           given={C.H.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=6e5f2ffb9b9f017a1684608d855bd078}{%
+           family={Josten},
+           familyi={J\bibinitperiod},
+           given={C.H.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{fullhash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{bibnamehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{annotatorbibnamehash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{annotatornamehash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{annotatorfullhash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{authorbibnamehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{authornamehash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{authorfullhash}{ad2551a9b9c981406113e59e5281b9bb}
+      \strng{introductionbibnamehash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{introductionnamehash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{introductionfullhash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{translatorbibnamehash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{translatornamehash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \strng{translatorfullhash}{6e5f2ffb9b9f017a1684608d855bd078}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{Jos-64}
+      \field{journaltitle}{Ambix}
+      \field{number}{2-3}
+      \field{title}{A Translation of John Dee's “Monas Hieroglyphica” (Antwerp, 1564), with an Introduction and Annotations}
+      \field{volume}{12}
+      \field{year}{1964}
+      \field{pages}{84\bibrangedash 221}
+      \range{pages}{138}
+      \verb{doi}
+      \verb 10.1179/000269864790223101
+      \endverb
+    \endentry
+    \entry{52e4c3bca29d4afb6b5a32968312cb7e}{article}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{1}{}{%
+        {{hash=3682f673cf8d53031be873f84e53cb58}{%
+           family={Theissen},
+           familyi={T\bibinitperiod},
+           given={W.R.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{3682f673cf8d53031be873f84e53cb58}
+      \strng{fullhash}{3682f673cf8d53031be873f84e53cb58}
+      \strng{bibnamehash}{3682f673cf8d53031be873f84e53cb58}
+      \strng{authorbibnamehash}{3682f673cf8d53031be873f84e53cb58}
+      \strng{authornamehash}{3682f673cf8d53031be873f84e53cb58}
+      \strng{authorfullhash}{3682f673cf8d53031be873f84e53cb58}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{The-86}
+      \field{journaltitle}{Ambix}
+      \field{number}{2-3}
+      \field{title}{John Dastin’s Letter on the Philosophers’ Stone}
+      \field{volume}{33}
+      \field{year}{1986}
+      \field{pages}{78\bibrangedash 87}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1179/amb.1986.33.2-3.78
+      \endverb
+    \endentry
+    \entry{b1865051ed8b3fbcf6ba959c22a689cf}{book}{skipbib=true,skipbiblist=true,skiplab=true}
+      \name{author}{1}{}{%
+        {{hash=fb5ae40fd06216dd2f7608122726f6c4}{%
+           family={Mynsicht},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=bea0721b57095c9f5b310879360c4d56}{%
+           family={Partridge},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London (UK)}%
+      }
+      \list{publisher}{1}{%
+        {J.M. for Awnsham Churchill}%
+      }
+      \strng{namehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{fullhash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{bibnamehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{authorbibnamehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{authornamehash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{authorfullhash}{fb5ae40fd06216dd2f7608122726f6c4}
+      \strng{translatorbibnamehash}{bea0721b57095c9f5b310879360c4d56}
+      \strng{translatornamehash}{bea0721b57095c9f5b310879360c4d56}
+      \strng{translatorfullhash}{bea0721b57095c9f5b310879360c4d56}
+      \field{sortinit}{}
+      \field{sortinithash}{495dc9894017a8b12cafa9c619d10c0c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{clonesourcekey}{Par-82}
+      \field{title}{Thesaurus \& Armamentarum Medico-Chymicum, or a Treasury of Physick}
+      \field{year}{1682}
+      \verb{urlraw}
+      \verb https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A51671.0001.001
+      \endverb
+      \verb{url}
+      \verb https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo;idno=A51671.0001.001
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

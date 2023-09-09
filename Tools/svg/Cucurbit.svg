@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="302.82666"
+   height="173.52"
+   viewBox="0 0 302.82666 173.52"
+   sodipodi:docname="Cucurbit.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-264.64002,-561.28003)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="302.82666"
+       height="173.52"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 0.32,7.68 0.64,7.68 1.12,7.680001 1.6,7.519998 1.92,7.359999 2.4,7.360001 2.88,7.040001 3.2,7.040001 3.68,6.720001 4,6.559997 4.48,6.239998 4.800001,6.080002 5.119999,5.760002 5.439998,5.440003 5.600003,5.119996 6.079998,4.8 6.240001,4.32 6.560002,4 6.879997,3.68 6.879997,3.36 7.200005,2.72 7.199997,2.4 7.520002,2.08 7.52,1.6 7.52,0.96 7.68,0.8 7.68,0.16 7.68,-0.16 7.68,-0.8 7.68,-0.96 7.52,-1.6 7.36,-2.08 7.36,-2.4 7.04,-2.72 7.04,-3.36 6.72,-3.68 6.56,-4 6.4,-4.32 5.91999,-4.8 5.76001,-5.119996 5.44001,-5.440003 5.11999,-5.760002 4.8,-6.080002 4.32,-6.239998 4.16,-6.559997 3.52,-6.720001 3.36001,-7.040001 2.72,-7.040001 2.55999,-7.360001 1.91999,-7.359999 1.6,-7.519998 1.12,-7.680001 L 264.16,7.68 264.32001,0"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(16.506682,24.693304)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 264.64001,561.28003 H 528.96002"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-248.13333,-536.58673)"
+       clip-path="url(#clipPath4)" />
+  </g>
+</svg>

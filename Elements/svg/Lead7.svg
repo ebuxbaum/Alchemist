@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="488.26666"
+   height="389.76001"
+   viewBox="0 0 488.26666 389.76001"
+   sodipodi:docname="Lead7.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="488.26666"
+       height="389.76001"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 -36.32,-52.959999 c 30.56,-20.959999 61.92,-32 93.919998,-32.800003 40.800004,-1.599999 73.439992,15.68 98.240002,51.68 C 170.08,-13.28 177.75999,18.08 178.72,59.84 l 1.60001,86.24 c 0.64,27.2 4.31999,45.76 11.19999,55.84 22.87999,33.11999 55.84,34.72 99.2,4.96 l 35.51999,51.84 c -30.56,20.95999 -61.59998,31.67999 -93.12,32.16 C 192,291.67999 159.2,274.39999 135.03999,239.2 124.64,224.16 118.4,200.8 116.48,169.28 L 110.08,67.199997 C 108.16,33.599998 104,12 97.599998,2.72 75.839996,-28.959999 43.360001,-29.92 0,0 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(248.16,459.94661)" />
+    <path
+       id="path2"
+       d="M 0,0 -24.16,-35.200001 C -3.84,-49.119999 17.120001,-56.48 38.560001,-57.119999 65.599998,-58.080002 87.519997,-46.560001 104,-22.559999 113.44,-8.64 118.56,12.16 119.2,40 l 1.12,57.599998 C 120.64,115.68 123.2,128 127.84,134.72 c 15.19999,22.08 37.12001,23.2 66.08,3.36 l 23.68001,34.4 C 197.28,186.56 176.48,193.75999 155.52,194.08 128,194.56 106.24,183.03999 90.080002,159.52 c -6.880005,-10.08 -11.040001,-25.6 -12.32,-46.56 l -4.32,-68.000001 C 72.160004,22.559999 69.440002,8.16 65.120003,1.92 50.720001,-19.200001 28.959999,-19.84 0,0 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="translate(132.64,501.86662)" />
+  </g>
+</svg>

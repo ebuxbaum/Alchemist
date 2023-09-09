@@ -1,0 +1,21 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Alchemist.blg'
+[134] biber-MSWIN64:340> INFO - === 
+[167] Biber.pm:419> INFO - Reading 'Alchemist.bcf'
+[264] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[265] Biber.pm:979> INFO - Found 33 citekeys in bib section 1
+[265] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[283] Biber.pm:4419> INFO - Processing section 1
+[293] Biber.pm:4610> INFO - Looking for bibtex file 'alchemist-ref.bib' for section 1
+[341] bibtex.pm:1713> INFO - LaTeX decoding ...
+[397] bibtex.pm:1519> INFO - Found BibTeX data source 'alchemist-ref.bib'
+[614] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[614] UCollate.pm:68> INFO - Overriding locale 'en-GB' defaults 'variable = shifted' with 'variable = non-ignorable'
+[614] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-GB'
+[614] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-GB'
+[638] bbl.pm:660> INFO - Writing 'Alchemist.bbl' with encoding 'UTF-8'
+[653] bbl.pm:763> INFO - Output to Alchemist.bbl
+[653] Biber.pm:131> WARN - legacy year field '2nd Century AD' in entry 'Pto-00' is not an integer - this will probably not sort properly.
+[653] Biber.pm:131> WARN - legacy year field 'unknown year' in entry 'Das-unk' is not an integer - this will probably not sort properly.
+[653] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\eb\AppData\Local\Temp\biber_tmp_2A5K\acee9dcfa7e8fd5eb32ced0b18c8e14b_13852.utf8, line 3, warning: 12 characters of junk seen at toplevel
+[653] Biber.pm:133> INFO - WARNINGS: 3

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="402.88"
+   height="517.89331"
+   viewBox="0 0 402.88 517.89331"
+   sodipodi:docname="Venus2.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-226.88,-448)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="402.88"
+       height="517.89331"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 4.32,4 4.32,3.52 4.8,3.2 4.8,3.04 5.120001,2.56 5.279998,2.08 5.440003,1.92 5.599998,1.28 5.599999,1.119999 5.760002,0.640002 L 56.639999,23.52 62.400002,23.360001 68.160004,22.719999 73.760002,21.6 79.199997,20.32 84.639999,18.4 89.919998,16.32 95.040001,13.76 100,10.72 l 4.64,-3.2 4.48,-3.52 4.16,-4 4,-4.16 3.52,-4.48 3.2,-4.64 3.04,-4.96 2.56001,-5.120001 2.07998,-5.279998 1.92002,-5.440003 1.43998,-5.439998 0.96001,-5.759999 0.64,-5.600002 0.16,-5.759998 -0.16,-5.760003 L 136,-68 l -0.96001,-5.599998 -1.43998,-5.599999 -1.92002,-5.440002 -2.07998,-5.279999 -2.56001,-5.120003 -3.04,-4.799995 -3.2,-4.800004 -3.52,-4.48 -4,-4.16"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(226.88,446.66661)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="M 226.88,448 566.71997,787.84003"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0,-1.333392)"
+       clip-path="url(#clipPath4)" />
+  </g>
+</svg>

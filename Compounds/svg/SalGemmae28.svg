@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="438.90668"
+   height="419.12"
+   viewBox="0 0 438.90668 419.12"
+   sodipodi:docname="SalGemmae28.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-287.20001,-711.91998)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-581.44,-670.08002)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-580.32,-676.47998)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-508.48001,-651.35999)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="438.90668"
+       height="419.12"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 0,0 c 0,-21.07 -17.120001,-38.16 -38.240002,-38.16 -21.119999,0 -38.240001,17.09 -38.240001,38.16 0,21.07 17.120002,38.16 38.240001,38.16 C -17.120001,38.16 0,21.07 0,0 Z"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(107.10668,362.19992)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 0,0 c 0,-21.030001 -17.040001,-38.080002 -38.080002,-38.080002 -21.039997,0 -38.080002,17.050001 -38.080002,38.080002 0,21.030001 17.040005,38.080002 38.080002,38.080002 C -17.040001,38.080002 0,21.030001 0,0 Z"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(401.34667,320.35996)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="M 0,0 2.88,-10.88 5.6,-21.92 7.68,-32.959999 9.6,-44 11.2,-55.040001 12.32,-66.080002 13.12,-76.959999 13.44,-88 V -98.879997 L 13.12,-109.6 l -0.64,-10.72 -1.12,-10.56 -1.44,-10.4 -1.92,-10.08 -2.08,-10.08 -2.56,-9.76 -2.88,-9.6 -3.2,-9.28 -3.68,-9.12 -3.84,-8.8 -4.32,-8.48 -4.480001,-8 -4.959999,-7.84001 -5.120001,-7.51999 -5.44,-7.04 -5.759999,-6.72001 -5.920002,-6.39999 -6.399997,-5.92001 -6.400002,-5.43998 -6.720001,-5.12002 -7.040001,-4.63999 -7.199997,-4.32 -7.360001,-3.68 -7.519996,-3.36001 -7.680003,-2.72 -7.84,-2.4 -8,-1.91998 -8.16,-1.44 -8.16,-0.96002 -8.31999,-0.47998 H -151.36 l -8.48,0.47998 -8.48001,0.96002 -8.47999,1.6 -8.48,1.91999 -8.64,2.39999 -8.32,2.88001 -8.48,3.36001 -8.48,3.84 -8.32,4.16 -8.15999,4.63999 -8.16001,5.28 -8,5.44 -7.83999,5.92001 -7.68,6.4 -7.52001,6.72 -7.35999,7.19999 -7.20001,7.52001 -7.04001,7.83999 -6.72,8.16001 -6.4,8.47999 -6.39999,8.80001 -5.92001,8.95999 -5.75998,9.44 -5.44001,9.60001 -5.27999,9.75999 -4.80002,10.08 -4.63999,10.23999 -4.16,10.40001 -4,10.56 -3.51999,10.56 -3.20001,10.880002 -3.04001,10.879997 -2.39999,10.879997 -2.23999,11.040001 -1.92002,11.040001 -1.44,11.040001 L -374.88,-32 -375.51999,-20.959999 -375.84,-10.08 V 0.8 l 0.32001,10.88 0.79999,10.56 1.11999,10.559999 1.44001,10.400002"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(400.22667,326.75992)"
+       clip-path="url(#clipPath6)" />
+    <path
+       id="path7"
+       d="M 0,0 2.56,-8.64 4.8,-17.280001 6.72,-25.92 l 1.76,-8.800001 1.28,-8.64 0.96,-8.799999 0.64,-8.639999 0.32,-8.48 0.16,-8.480003 -0.32,-8.479996 -0.64,-8.160004 -0.96,-8.159998 -1.28,-7.84 -1.6,-7.68 -1.92,-7.52 -2.08,-7.2 -2.56,-6.87999 -2.88,-6.72 -3.04,-6.24001 -3.36,-6.08 -3.52,-5.60001 -4,-5.43998 -4,-4.96001 -4.479999,-4.48 -4.480002,-4.16 -4.800001,-3.84 -5.119999,-3.36 -5.119999,-2.88 -5.279998,-2.4 -5.600003,-2.08 -5.599998,-1.6 -5.759999,-1.12 -5.920005,-0.8 -5.919999,-0.16001 -6.080001,0.16001 -6.079995,0.8 -6.240005,1.12 -6.079997,1.6 -6.24,1.92 -6.24,2.56 -6.08,2.88 -6.08,3.36 -6.08001,3.84 -5.91999,4.16 -5.92,4.48 -5.76,4.96001 -5.76001,5.27999 -5.43998,5.76 -5.28,5.92 -5.28002,6.40001 -4.95999,6.72 -4.8,6.87999 -4.64,7.2 -4.31999,7.36 -4.16001,7.68 -3.83999,8 -3.68001,8.000002 -3.36,8.32 -3.2,8.32 -2.72,8.479996 -2.56,8.640003 -2.24,8.639999 -1.76,8.64 -1.6,8.799999 -1.28,8.640001 -0.95999,8.799999 -0.64,8.640001 L -224,-0.16 v 8.48 l 0.32001,8.479999 0.64,8.16 0.95999,8 1.28,8"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(328.38668,301.63993)"
+       clip-path="url(#clipPath8)" />
+  </g>
+</svg>

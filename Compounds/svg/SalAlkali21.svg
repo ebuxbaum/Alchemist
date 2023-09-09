@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="505.61334"
+   height="285.65332"
+   viewBox="0 0 505.61334 285.65332"
+   sodipodi:docname="SalAlkali21.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-3.3333333e-6)"
+         clip-rule="evenodd"
+         id="path6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0.16 V 1122.5601 H 793.59998 V 0.16 Z"
+         transform="translate(-396.79998,-599.03998)"
+         clip-rule="evenodd"
+         id="path8" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="505.61334"
+       height="285.65332"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 208,599.03998 151.04001,226.56"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-184.09333,-563.28006)"
+       clip-path="url(#clipPath2)" />
+    <path
+       id="path3"
+       d="m 359.04001,825.59998 151.03998,-226.56"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-184.09333,-563.28006)"
+       clip-path="url(#clipPath4)" />
+    <path
+       id="path5"
+       d="m 510.07999,599.03998 h -113.28"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(-184.09333,-563.28006)"
+       clip-path="url(#clipPath6)" />
+    <path
+       id="path7"
+       d="m 0,0 0.32,8.16 0.48,8.16 0.96,8.16 1.44,8 1.6,8 2.24,7.84 2.4,7.52 2.88,7.520001 3.2,7.36 3.520001,7.199997 3.839998,6.880005 4.160002,6.559998 4.479999,6.400001 4.8,6.079998 4.959999,5.76 5.440002,5.6 5.439999,5.12 5.920002,4.64 5.919998,4.48 6.239998,4 6.400001,3.67999 6.720002,3.20002 6.720001,2.87999 6.720001,2.40001 7.039997,1.91999 7.04,1.59999 7.04,1.12001 7.2,0.64 7.04,0.15999 7.2,-0.15999 7.2,-0.64 7.04001,-1.12001 7.03999,-1.59999 6.88,-1.91999 6.87999,-2.40001 6.72,-2.87999 6.56,-3.20002 6.40001,-3.67999 6.24001,-4 6.07998,-4.48 5.76001,-4.64 5.59999,-5.12 5.28,-5.6 5.12001,-5.76 4.80001,-6.079998 4.47999,-6.400001 4.16001,-6.559998 3.83999,-6.880005 3.52001,-7.199997 3.19999,-7.36 2.87999,-7.520001 2.40001,-7.52 2.07999,-7.84 1.76001,-8 1.28,-8 0.95999,-8.16 L 264.16,8.16 264.32001,0"
+       style="fill:none;stroke:#000000;stroke-width:26.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(212.70665,35.759919)"
+       clip-path="url(#clipPath8)" />
+  </g>
+</svg>
